@@ -1,0 +1,1 @@
+# .\.venv\Scripts\activate for activating the venv
