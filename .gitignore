@@ -1,4 +1,4 @@
-.gitignore/
+.gitignore
 .ipynb_checkpoints/
 .venv/
 Activate_venv.txt
